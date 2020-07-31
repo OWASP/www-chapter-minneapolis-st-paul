@@ -7,6 +7,9 @@ tags: example-tag
 region: United States
 
 auto-migrated: 0
+meetup-group: OWASP-MSP-Meetup
+country: USA
+postal-code: 55101
 
 ---
 ## Welcome
