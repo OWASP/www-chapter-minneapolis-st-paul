@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Minneapolis/St. Paul
 tags: MSP
 
-region: United States
+region: North America
 
 auto-migrated: 0
 meetup-group: OWASP-MSP-Meetup
