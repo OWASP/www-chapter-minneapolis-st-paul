@@ -13,10 +13,12 @@ The OWASP-MSP chapter meets at least quarterly, though does strive to hold meeti
 
 ## Next meeting scheduled
 
+* TBD
+
+## Past meetings
+
 * 11 Feb. 2021: 
 The state of IoT security
-
-## Some past meetings
 
 * 29 Oct. 2020: 
 Securing Infrastructure as Code
