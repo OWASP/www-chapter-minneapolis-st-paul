@@ -42,20 +42,9 @@ email the chapter leaders listed at right! You don't have to be an OWASP member 
   });
 </script>
 
-## Past meetings
+## Past few meetings
 
-* 11 Feb. 2021: 
-The state of IoT security
+* 20 April 2022: How to Hack an API in 15 minutes!
+* 23 March 2022: Open forum on appsec
+* 16 Dec. 2021: The OWASP Top 10, 2021 ed
 
-* 29 Oct. 2020: 
-Securing Infrastructure as Code
-
-* 27 Feb. 2020: 
-OWASP-MSP open forum
-
-* 3 Dec. 2019: 
-OWASP SAMM 2.0
-  
-* 24 Sept. 2019: 
-Chaos Engineering
-  
