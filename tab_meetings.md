@@ -44,7 +44,7 @@ _[Watch this space]_
   });
 </script>
 
-## Past meetings
+## Meeting archive
 
 * [20220525](https://www.meetup.com/owasp-msp-meetup/events/285695539/): David Melamed: The OWASP Serverless Security Top 10 as Code - [Video](https://youtu.be/e_2RxD5Mqn4)
 * [20220420](https://www.meetup.com/owasp-msp-meetup/events/285130448/): Himanshu Dwivedi: How to Hack an API in 15 minutes!
@@ -59,5 +59,9 @@ _[Watch this space]_
 * [20190626](https://www.meetup.com/owasp-msp-meetup/events/262130893/): Alex Bauert: Open forum for OWASP-MSP chapter
 * [20190320](https://www.meetup.com/owasp-msp-meetup/events/258911164/): Chris Rasinen and Cody Bertram: The State of Application Security
 * [20190109](https://www.meetup.com/owasp-msp-meetup/events/257053514/): Tony Ramirez: Hacking Your Enterprise by Reverse Engineering Your Mobile Apps
-* 
+* [20181128](https://www.meetup.com/owasp-msp-meetup/events/256158710/): Alex Bauert: Threat Modeling
+* [20180912](https://www.meetup.com/owasp-msp-meetup/events/253933603/): Yan Kravchenko: Evolution of Application Security Programs through OWASP SAMM 2.0
+* [20180719](https://www.meetup.com/owasp-msp-meetup/events/252531062/): Eric Johnson: Secure DevOps: A Puma’s Tail
+* [20180514](https://www.meetup.com/owasp-msp-meetup/events/249940370/): Bjoern Kimminich: The OWASP Juice Shop Project
+* [20180125](https://www.meetup.com/owasp-msp-meetup/events/246716107/): Ryan Manship: Red Teaming
 
