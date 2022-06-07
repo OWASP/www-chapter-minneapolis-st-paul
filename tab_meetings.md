@@ -64,4 +64,12 @@ _[Watch this space]_
 * [20180719](https://www.meetup.com/owasp-msp-meetup/events/252531062/): Eric Johnson: Secure DevOps: A Puma’s Tail
 * [20180514](https://www.meetup.com/owasp-msp-meetup/events/249940370/): Bjoern Kimminich: The OWASP Juice Shop Project
 * [20180125](https://www.meetup.com/owasp-msp-meetup/events/246716107/): Ryan Manship: Red Teaming
+* [20171026](https://www.meetup.com/owasp-msp-meetup/events/243939172/): Greg Anderson: The OWASP DefectDojo Tool Project
+* [20170928](https://www.meetup.com/owasp-msp-meetup/events/242716394/): Vishal Asthana: How Billion Dollar Enterprises Manage Application Security at Scale
+* [20170816](https://www.meetup.com/owasp-msp-meetup/events/241857223/): Yan Kravchenko: Evolution of Application Security
+* [20170420](https://www.meetup.com/owasp-msp-meetup/events/238763276/): Brian Johnson: Containers and Application Security
+* [20170316](https://www.meetup.com/owasp-msp-meetup/events/237614671/): Girish Nair: Instrumenting Software and Software Security
+* [20170215](https://www.meetup.com/owasp-msp-meetup/events/237019121/): Bob Sullivan: Full static analysis on 2 hours a month:
+* [20170111](https://www.meetup.com/owasp-msp-meetup/events/236052922/): Jack Mannino: MircoServices and Security
+
 
