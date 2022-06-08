@@ -69,7 +69,7 @@ _[Watch this space]_
 * [20170816](https://www.meetup.com/owasp-msp-meetup/events/241857223/): Yan Kravchenko: Evolution of Application Security
 * [20170420](https://www.meetup.com/owasp-msp-meetup/events/238763276/): Brian Johnson: Containers and Application Security
 * [20170316](https://www.meetup.com/owasp-msp-meetup/events/237614671/): Girish Nair: Instrumenting Software and Software Security
-* [20170215](https://www.meetup.com/owasp-msp-meetup/events/237019121/): Bob Sullivan: Full static analysis on 2 hours a month:
+* [20170215](https://www.meetup.com/owasp-msp-meetup/events/237019121/): Bob Sullivan: Full static analysis on 2 hours a month
 * [20170111](https://www.meetup.com/owasp-msp-meetup/events/236052922/): Jack Mannino: MircoServices and Security
 * [20161026](https://www.meetup.com/owasp-msp-meetup/events/234747284/): Jeremy Long: Depending on Vulnerable Libraries (OWASP Dependency-Check) - [Video](https://youtu.be/BUiWcDj1Ikw) - [Tool](https://owasp.org/www-project-dependency-check/)
 * [20160921](https://www.meetup.com/owasp-msp-meetup/events/233911050/): Dan Cornell: The ABCs of Source-Assisted Web Application Penetration Testing With OWASP ZAP: Attack Surface, Backdoors, and Configuration - [Video](https://youtu.be/95YMV2G8bq0)
