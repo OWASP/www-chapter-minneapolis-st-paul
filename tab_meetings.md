@@ -85,6 +85,7 @@ _[Watch this space]_
 * [20150507](https://www.meetup.com/owasp-msp-meetup/events/221969524/): Igor Matlin: Warning Ahead: Security Storms are brewing in your Javascript
 * [20150409](https://www.meetup.com/owasp-msp-meetup/events/221283716/): Gunnar Peterson and Gerry Gebel: Getting the OWASP Top Ten Right with Dynamic Authorization
 * [20150316](https://www.meetup.com/owasp-msp-meetup/events/220728619/): Kevin Nassery: Measuring Software Security Programs
+* 20111107: Gene Kim - InfoSec in the New World Order: Rugged DevOps and More - [Video](https://youtu.be/p-t8xnuv_ow)
 * 20090629: Cassio Goldschmidt: Tracking the Progress of an SDL Program: Lessons from the Gym - [Slides](https://www.slideshare.net/webappsecguy/tracking-the-progress-of-an-sdl-program-lessons-from-the-gym-1684512)
 
 
