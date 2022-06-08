@@ -71,5 +71,14 @@ _[Watch this space]_
 * [20170316](https://www.meetup.com/owasp-msp-meetup/events/237614671/): Girish Nair: Instrumenting Software and Software Security
 * [20170215](https://www.meetup.com/owasp-msp-meetup/events/237019121/): Bob Sullivan: Full static analysis on 2 hours a month:
 * [20170111](https://www.meetup.com/owasp-msp-meetup/events/236052922/): Jack Mannino: MircoServices and Security
+* [20161026](https://www.meetup.com/owasp-msp-meetup/events/234747284/): Jeremy Long: Depending on Vulnerable Libraries (OWASP Dependency-Check) - [Video](https://youtu.be/BUiWcDj1Ikw) - [Tool](https://owasp.org/www-project-dependency-check/)
+* [20160921](https://www.meetup.com/owasp-msp-meetup/events/233911050/): Dan Cornell: The ABCs of Source-Assisted Web Application Penetration Testing With OWASP ZAP: Attack Surface, Backdoors, and Configuration
+* [20160824](https://www.meetup.com/owasp-msp-meetup/events/233207985/): John Benninghoff: Practical Identity Access Management: Lessons from the Field
+* [20160726](https://www.meetup.com/owasp-msp-meetup/events/232388831/): Caroline Wong: Software Security and Metrics
+* [20160624](https://www.meetup.com/owasp-msp-meetup/events/231508872/): Anurag Agarwal: Practical Threat Modeling classroom
+* [20160511](https://www.meetup.com/owasp-msp-meetup/events/230654716/): George Chatzisofroniou: Evil Twin Attack with Wifiphisher - [Tool](https://wifiphisher.org/)
+* [20160308](https://www.meetup.com/owasp-msp-meetup/events/229240311/): Matt Tesauro: Doing App Sec at Scale
+* [20160217](https://www.meetup.com/owasp-msp-meetup/events/228406877/): David Lindner: Testing Tools for iOS Applications - [Slides](download/20160217_OWASP-MSP_iOS_Testing_Tools.pdf?raw=true)
+* [20160113](https://www.meetup.com/owasp-msp-meetup/events/227554267/): David Lindner: OWASP Mobile Top Ten Security Risks - [Slides](download/20160113_OWASP-MSP_Mobile_Top_Ten_2014.pdf?raw=true)
 
 
