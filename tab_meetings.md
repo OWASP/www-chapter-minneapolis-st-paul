@@ -10,7 +10,7 @@ meetup-group: OWASP-MSP-Meetup
 # Meetings
 
 The OWASP-MSP chapter meets at least quarterly. Please see our 
-[Meetup page](https://www.meetup.com/OWASP-MSP-Meetup) for the latest information.
+[Meetup page](https://www.meetup.com/OWASP-MSP-Meetup) for the latest information. Chapter meetings are open to all!
 
 ## Call for talks
 
@@ -21,8 +21,7 @@ email the chapter leaders listed at right! You don't have to be an OWASP member 
 
 20220718: [In-person](https://www.meetup.com/owasp-msp-meetup/events/286913008/)/[On-line](https://www.meetup.com/owasp-msp-meetup/events/286913054/) Brian Reed: Pen-testing mobile apps with the OWASP MASVS
 
-_[Watch this space]_
-
+<!-- commenting out until someone fixes the flushugginer API call. If I had time, I'd look into it.
 {% include chapter_events.html group=page.meetup-group %}
 
 <script type='text/javascript'>
@@ -45,6 +44,8 @@ _[Watch this space]_
     });
   });
 </script>
+
+-->
 
 ## Meeting archive
 
