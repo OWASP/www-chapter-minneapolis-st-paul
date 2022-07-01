@@ -19,6 +19,8 @@ email the chapter leaders listed at right! You don't have to be an OWASP member 
 
 ## Next meeting scheduled
 
+20220718: [In-person](https://www.meetup.com/owasp-msp-meetup/events/286913008/)/[On-line](https://www.meetup.com/owasp-msp-meetup/events/286913054/) Brian Reed: Pen-testing mobile apps with the OWASP MASVS
+
 _[Watch this space]_
 
 {% include chapter_events.html group=page.meetup-group %}
