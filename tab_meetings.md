@@ -19,11 +19,11 @@ email the chapter leaders listed at right! You don't have to be an OWASP member 
 
 ## Next meeting scheduled
 
-20220718: [In-person](https://www.meetup.com/owasp-msp-meetup/events/286913008/)/[On-line](https://www.meetup.com/owasp-msp-meetup/events/286913054/) Brian Reed: Pen-testing mobile apps with the OWASP MASVS
+TBD
 
 <!-- commenting out until someone fixes the flushugginer API call. If I had time, I'd look into it.
 {% include chapter_events.html group=page.meetup-group %}
-
+-->
 <script type='text/javascript'>
   $(function(){
     $(".timeclass").hover(function() {
@@ -45,10 +45,11 @@ email the chapter leaders listed at right! You don't have to be an OWASP member 
   });
 </script>
 
--->
+
 
 ## Meeting archive
 
+* [20220718](https://www.meetup.com/owasp-msp-meetup/events/286913008/): Brian Reed: Pen-testing mobile apps with the OWASP MASVS - [Slides](download/20220718_OWASP-MSP_MASVS.pdf?raw=true) - [Video](https://youtu.be/Endr8RPpNSM)
 * [20220525](https://www.meetup.com/owasp-msp-meetup/events/285695539/): David Melamed: The OWASP Serverless Security Top 10 as Code - [Video](https://youtu.be/e_2RxD5Mqn4)
 * [20220420](https://www.meetup.com/owasp-msp-meetup/events/285130448/): Himanshu Dwivedi: How to Hack an API in 15 minutes!
 * [20220323](https://www.meetup.com/owasp-msp-meetup/events/283389664/): Alex Bauert and Nathan Larson: Pen-testing, encryption, open forum
