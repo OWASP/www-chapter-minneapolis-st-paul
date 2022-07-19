@@ -23,7 +23,7 @@ TBD
 
 <!-- commenting out until someone fixes the flushugginer API call. If I had time, I'd look into it.
 {% include chapter_events.html group=page.meetup-group %}
--->
+
 <script type='text/javascript'>
   $(function(){
     $(".timeclass").hover(function() {
@@ -44,7 +44,7 @@ TBD
     });
   });
 </script>
-
+-->
 
 
 ## Meeting archive
