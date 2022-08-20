@@ -19,7 +19,7 @@ email the chapter leaders listed at right! You don't have to be an OWASP member 
 
 ## Next meeting scheduled
 
-TBD
+[5:00 pm CT 19 Sept. 2022 (on-line)](https://www.meetup.com/owasp-msp-meetup/events/287952262): Sudheer Karanam: Privilege Identity & Access Management
 
 <!-- commenting out until someone fixes the flushugginer API call. If I had time, I'd look into it.
 {% include chapter_events.html group=page.meetup-group %}
