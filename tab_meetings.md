@@ -14,8 +14,7 @@ The OWASP-MSP chapter meets at least quarterly. Please see our
 
 ## Call for talks
 
-If you have a talk you'd like to give, a discussion to lead, or some ideas for future talks, 
-email the chapter leaders listed at right! You don't have to be an OWASP member to share your experience.
+If you have a talk you'd like to give, a discussion to lead, or some ideas for future talks, email the chapter leaders listed at right! You don't have to be an OWASP member to share your experience. We're always looking for new ideas or fresh takes on the standards.
 
 ## Next meeting scheduled
 
