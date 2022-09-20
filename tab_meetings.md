@@ -18,9 +18,7 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Next meeting scheduled
 
-TBD
-<!--[5:00 pm CT 19 Sept. 2022 (on-line)](https://www.meetup.com/owasp-msp-meetup/events/287952262): Sudheer Karanam: Privilege Identity & Access Management
--->
+[5:00 pm CT 11 Oct. 2022 (on-line)](https://www.meetup.com/owasp-msp-meetup/events/288608767): Guy Levinger: Cherrybomb – API security tests in the CI pipeline
 
 <!-- commenting out until someone fixes the flushugginer API call. If I had time, I'd look into it.
 {% include chapter_events.html group=page.meetup-group %}
