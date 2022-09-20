@@ -18,7 +18,9 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Next meeting scheduled
 
-[5:00 pm CT 19 Sept. 2022 (on-line)](https://www.meetup.com/owasp-msp-meetup/events/287952262): Sudheer Karanam: Privilege Identity & Access Management
+TBD
+<!--[5:00 pm CT 19 Sept. 2022 (on-line)](https://www.meetup.com/owasp-msp-meetup/events/287952262): Sudheer Karanam: Privilege Identity & Access Management
+-->
 
 <!-- commenting out until someone fixes the flushugginer API call. If I had time, I'd look into it.
 {% include chapter_events.html group=page.meetup-group %}
@@ -48,6 +50,7 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Meeting archive
 
+* [20220919](https://www.meetup.com/owasp-msp-meetup/events/287952262/): Sudheer Karanam: Privilege Identity & Access Management - [Slides](download/20220919_OWASP-MSP_Privileged_Access_Management.pdf?raw=true) - [Video](https://youtu.be/2DLl5wRHuNE)
 * [20220718](https://www.meetup.com/owasp-msp-meetup/events/286913008/): Brian Reed: Pen-testing mobile apps with the OWASP MASVS - [Slides](download/20220718_OWASP-MSP_MASVS.pdf?raw=true) - [Video](https://youtu.be/Endr8RPpNSM)
 * [20220525](https://www.meetup.com/owasp-msp-meetup/events/285695539/): David Melamed: The OWASP Serverless Security Top 10 as Code - [Video](https://youtu.be/e_2RxD5Mqn4)
 * [20220420](https://www.meetup.com/owasp-msp-meetup/events/285130448/): Himanshu Dwivedi: How to Hack an API in 15 minutes!
