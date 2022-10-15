@@ -20,7 +20,6 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 TBD
 
-<!-- commenting out until someone fixes the flushugginer API call. If I had time, I'd look into it.
 {% include chapter_events.html group=page.meetup-group %}
 
 <script type='text/javascript'>
@@ -42,8 +41,9 @@ TBD
       $(this).prop('title', popstr);
     });
   });
+
+  
 </script>
--->
 
 
 ## Meeting archive
