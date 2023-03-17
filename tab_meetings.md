@@ -48,6 +48,7 @@ TBD
 
 ## Meeting archive
 
+* [20230317](https://www.meetup.com/owasp-msp-meetup/events/291851101): [Redacted]: Application Security Considerations in Offensive Operations - [No video available]
 * [20221011](https://www.meetup.com/owasp-msp-meetup/events/288608767): Guy Levinger: Cherrybomb – API security tests in the CI pipeline - [Video](https://youtu.be/jBeK0Qw0h94)
 * [20220919](https://www.meetup.com/owasp-msp-meetup/events/287952262/): Sudheer Karanam: Privilege Identity & Access Management - [Slides](download/20220919_OWASP-MSP_Privileged_Access_Management.pdf?raw=true) - [Video](https://youtu.be/2DLl5wRHuNE)
 * [20220718](https://www.meetup.com/owasp-msp-meetup/events/286913008/): Brian Reed: Pen-testing mobile apps with the OWASP MASVS - [Slides](download/20220718_OWASP-MSP_MASVS.pdf?raw=true) - [Video](https://youtu.be/Endr8RPpNSM)
