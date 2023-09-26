@@ -18,8 +18,8 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Next scheduled meeting
 
-24 Oct 2023 - hybrid - Topic TBD
-? Dec 2023 - hybrid - End-of-year retrospective/prospective
+* 24 Oct 2023 - hybrid - Topic TBD
+* ? Dec 2023 - hybrid - End-of-year retrospective/prospective
 
 {% include chapter_events.html group=page.meetup-group %}
 
