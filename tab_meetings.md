@@ -16,9 +16,10 @@ The OWASP-MSP chapter meets at least quarterly. Please see our
 
 If you have a talk you'd like to give, a discussion to lead, or some ideas for future talks, email the chapter leaders listed at right! You don't have to be an OWASP member to share your experience. We're always looking for new ideas or fresh takes on the standards.
 
-## Next meeting scheduled
+## Next scheduled meeting
 
-TBD
+24 Oct 2023 - hybrid - Topic TBD
+? Dec 2023 - hybrid - End-of-year retrospective/prospective
 
 {% include chapter_events.html group=page.meetup-group %}
 
