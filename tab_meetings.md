@@ -18,7 +18,7 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Next scheduled meeting
 
-* [24 Oct 2023: Andrew Carlson -- Gamifying Tabletop Exercises](https://www.meetup.com/owasp-msp-meetup/events/296499717)
+* [24 Oct 2023: Andrew Carlson -- Gamifying Tabletop Exercises](https://www.meetup.com/owasp-msp-meetup/events/296499717) - [PDF worksheet](download/How_To_Tabletop_Like_A_Boss.pdf) - [Editable worksheet](download/How_To_Tabletop_Like_A_Boss.docx)
 * ? Dec 2023: End-of-year retrospective -- to be planned
 
 
