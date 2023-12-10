@@ -18,7 +18,7 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Next scheduled meeting
 
-* [13 Dec 2023: OWASP tool lunch & learn - Dependency Check](https://www.meetup.com/owasp-msp-meetup/events/297608399)
+* [13 Dec 2023: Zoa Buske and Nathan Larson: OWASP tool lunch & learn - Dependency Check](https://www.meetup.com/owasp-msp-meetup/events/297608399)
 
 
 <!-- the below doesn't seem to be working -->
