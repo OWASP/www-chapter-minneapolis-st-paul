@@ -18,8 +18,7 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Next scheduled meeting
 
-* [13 Dec 2023: Zoa Buske and Nathan Larson: OWASP tool lunch & learn - Dependency Check](https://www.meetup.com/owasp-msp-meetup/events/297608399)
-
+Q1 2024 meeting: TBD
 
 <!-- the below doesn't seem to be working -->
 
@@ -51,6 +50,7 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Meeting archive
 
+* [20231213](https://www.meetup.com/owasp-msp-meetup/events/297608399/): Zoa Buske - Nathan Larson: Software Composition Analysis - [Video](https://youtu.be/hdEDgRvQuMY) - [Slides](download/20231213_OWASP-MSP_Software_Composition_Analysis.pdf)
 * [20231024](https://www.meetup.com/owasp-msp-meetup/events/296499717): Andrew Carlson - Gamifying Tabletop Exercises - [No recording available due to tech issues] - [PDF worksheet](download/How_To_Tabletop_Like_A_Boss.pdf) - [Editable worksheet](download/How_To_Tabletop_Like_A_Boss.docx)
 * [20230317](https://www.meetup.com/owasp-msp-meetup/events/291851101): [Redacted]: Application Security Considerations in Offensive Operations - [No video available]
 * [20221011](https://www.meetup.com/owasp-msp-meetup/events/288608767): Guy Levinger: Cherrybomb – API security tests in the CI pipeline - [Video](https://youtu.be/jBeK0Qw0h94)
