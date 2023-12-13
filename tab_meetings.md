@@ -50,8 +50,8 @@ Q1 2024 meeting: TBD
 
 ## Meeting archive
 
-* [20231213](https://www.meetup.com/owasp-msp-meetup/events/297608399/): Zoa Buske - Nathan Larson: Software Composition Analysis - [Video](https://youtu.be/hdEDgRvQuMY) - [Slides](download/20231213_OWASP-MSP_Software_Composition_Analysis.pdf)
-* [20231024](https://www.meetup.com/owasp-msp-meetup/events/296499717): Andrew Carlson - Gamifying Tabletop Exercises - [No recording available due to tech issues] - [PDF worksheet](download/How_To_Tabletop_Like_A_Boss.pdf) - [Editable worksheet](download/How_To_Tabletop_Like_A_Boss.docx)
+* [20231213](https://www.meetup.com/owasp-msp-meetup/events/297608399/): Zoa Buske and Nathan Larson: Software Composition Analysis - [Video](https://youtu.be/hdEDgRvQuMY) - [Slides](download/20231213_OWASP-MSP_Software_Composition_Analysis.pdf)
+* [20231024](https://www.meetup.com/owasp-msp-meetup/events/296499717): Andrew Carlson: Gamifying Tabletop Exercises - [No recording available due to tech issues] - [PDF worksheet](download/How_To_Tabletop_Like_A_Boss.pdf) - [Editable worksheet](download/How_To_Tabletop_Like_A_Boss.docx)
 * [20230317](https://www.meetup.com/owasp-msp-meetup/events/291851101): [Redacted]: Application Security Considerations in Offensive Operations - [No video available]
 * [20221011](https://www.meetup.com/owasp-msp-meetup/events/288608767): Guy Levinger: Cherrybomb – API security tests in the CI pipeline - [Video](https://youtu.be/jBeK0Qw0h94)
 * [20220919](https://www.meetup.com/owasp-msp-meetup/events/287952262/): Sudheer Karanam: Privilege Identity & Access Management - [Slides](download/20220919_OWASP-MSP_Privileged_Access_Management.pdf?raw=true) - [Video](https://youtu.be/2DLl5wRHuNE)
