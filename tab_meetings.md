@@ -19,6 +19,7 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 ## Next scheduled meeting
 
 6 March 2024: [Matt Rose, Field CISO, ReversingLabs: The Monsters in your Software Supply Chain](https://www.meetup.com/owasp-msp-meetup/events/298803400/)
+
 Q2 2024 meeting: TBD
 
 <!-- the below doesn't seem to be working, despite it working on the index page -->
