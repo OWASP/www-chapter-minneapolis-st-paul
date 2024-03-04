@@ -18,9 +18,10 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Next scheduled meeting
 
-Q1 2024 meeting: TBD
+6 March 2024: [Matt Rose, Field CISO, ReversingLabs: The Monsters in your Software Supply Chain](https://www.meetup.com/owasp-msp-meetup/events/298803400/)
+Q2 2024 meeting: TBD
 
-<!-- the below doesn't seem to be working -->
+<!-- the below doesn't seem to be working, despite it working on the index page -->
 
 {% include chapter_events.html group=page.meetup-group %}
 
@@ -41,10 +42,7 @@ Q1 2024 meeting: TBD
       end_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
       popstr = start_dt.toLocaleString(luxon.DateTime.TIME_WITH_SECONDS) + ' to ' + end_dt.toLocaleString(luxon.DateTime.TIME_WITH_SHORT_OFFSET);
       $(this).prop('title', popstr);
-    });
-  });
-
-  
+    });  
 </script>
 
 
