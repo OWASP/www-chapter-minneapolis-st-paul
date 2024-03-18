@@ -18,8 +18,6 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Next scheduled meeting
 
-6 March 2024: [Matt Rose, Field CISO, ReversingLabs: The Monsters in your Software Supply Chain](https://www.meetup.com/owasp-msp-meetup/events/298803400/)
-
 Q2 2024 meeting: TBD
 
 <!-- the below doesn't seem to be working, despite it working on the index page -->
@@ -49,6 +47,7 @@ Q2 2024 meeting: TBD
 
 ## Meeting archive
 
+* [20240306](https://www.meetup.com/owasp-msp-meetup/events/298803400/): Matt Rose: The Monsters in your Software Supply Chain - [Video](https://youtu.be/_BV13ATjmp0)
 * [20231213](https://www.meetup.com/owasp-msp-meetup/events/297608399/): Zoa Buske and Nathan Larson: Software Composition Analysis - [Video](https://youtu.be/hdEDgRvQuMY) - [Slides](download/20231213_OWASP-MSP_Software_Composition_Analysis.pdf)
 * [20231024](https://www.meetup.com/owasp-msp-meetup/events/296499717): Andrew Carlson: Gamifying Tabletop Exercises - [No recording available due to tech issues] - [PDF worksheet](download/How_To_Tabletop_Like_A_Boss.pdf) - [Editable worksheet](download/How_To_Tabletop_Like_A_Boss.docx)
 * [20230317](https://www.meetup.com/owasp-msp-meetup/events/291851101): [Redacted]: Application Security Considerations in Offensive Operations - [No video available]
