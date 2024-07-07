@@ -18,7 +18,7 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Next scheduled meeting
 
-Q2 2024 meeting: TBD
+Q3 2024: TBD
 
 <!-- the below doesn't seem to be working, despite it working on the index page -->
 
@@ -47,6 +47,7 @@ Q2 2024 meeting: TBD
 
 ## Meeting archive
 
+* [20240618](https://www.meetup.com/owasp-msp-meetup/events/301154232/): Ryan Wakeham: Hidden Risks in Open-Source Code and AI Models - [Video](https://youtu.be/gkHnrzvdJog) - [Slides](download/20240618_OWASP-MSP_Hidden_Risks_in_Open-Source_Code.pdf)
 * [20240417](https://www.meetup.com/owasp-msp-meetup/events/300170456/): Girish Nair: GitHub Actions Security Landscape - [Video](https://youtu.be/kRbiPb2nm5o) - [Slides](download/20240417_OWASP-MSP_Github_Actions_Security_Landscape.pdf) - [BleepingComputer Article](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
 * [20240306](https://www.meetup.com/owasp-msp-meetup/events/298803400/): Matt Rose: The Monsters in your Software Supply Chain - [Video](https://youtu.be/_BV13ATjmp0)
 * [20231213](https://www.meetup.com/owasp-msp-meetup/events/297608399/): Zoa Buske and Nathan Larson: Software Composition Analysis - [Video](https://youtu.be/hdEDgRvQuMY) - [Slides](download/20231213_OWASP-MSP_Software_Composition_Analysis.pdf)
