@@ -1,5 +1,5 @@
 ---
-title: Job Bord
+title: Jobs
 layout:  null
 tab: true
 order: 1
