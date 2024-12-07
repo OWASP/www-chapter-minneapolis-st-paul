@@ -19,6 +19,9 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 ## Next scheduled meeting
 
 Q1 2025: TBD
+Q2 2025: TBD
+Q3 2025: TBD
+Q4 2025: TBD
 
 <!-- the below doesn't seem to be working, despite it working on the index page -->
 
