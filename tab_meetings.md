@@ -18,10 +18,7 @@ If you have a talk you'd like to give, a discussion to lead, or some ideas for f
 
 ## Next scheduled meeting
 
-Q1 2025: TBD
-Q2 2025: TBD
-Q3 2025: TBD
-Q4 2025: TBD
+TBD
 
 <!-- the below doesn't seem to be working, despite it working on the index page -->
 
@@ -50,7 +47,8 @@ Q4 2025: TBD
 
 ## Meeting archive
 
-* [20241203](https://www.meetup.com/owasp-msp-meetup/events/304671791): Dimitry Shvartsman: The new age of Product Security - Video TBU - Slides TBUs
+* [20250225](https://www.meetup.com/owasp-msp-meetup/events/305641736): Tracy Walker: Enhancing Open Source Tools Using AI: A "No Code" Journey to Build an Automated DefectDojo Parser Generator - Video TBU - Slides TBU
+* [20241203](https://www.meetup.com/owasp-msp-meetup/events/304671791): Dimitry Shvartsman: The new age of Product Security - [Video](https://youtu.be/nwOlY2wIEUg)
 * [20241001](https://www.meetup.com/owasp-msp-meetup/events/303628762/): Darren Meyer: What's in your AI code? Learn why every SCA tool is wrong, and how to deal with it - [Video](https://youtu.be/MsD5PAZLAC4) - [Slides](download/20241001_OWASP-MSP_Episode_AI_Phantom_Dependency_Menace.pdf)
 * [20240618](https://www.meetup.com/owasp-msp-meetup/events/301154232/): Ryan Wakeham: Hidden Risks in Open-Source Code and AI Models - [Video](https://youtu.be/gkHnrzvdJog) - [Slides](download/20240618_OWASP-MSP_Hidden_Risks_in_Open-Source_Code.pdf)
 * [20240417](https://www.meetup.com/owasp-msp-meetup/events/300170456/): Girish Nair: GitHub Actions Security Landscape - [Video](https://youtu.be/kRbiPb2nm5o) - [Slides](download/20240417_OWASP-MSP_Github_Actions_Security_Landscape.pdf) - [BleepingComputer Article](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
