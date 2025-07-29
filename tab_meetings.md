@@ -47,7 +47,8 @@ TBD
 
 ## Meeting archive
 
-* [20250225](https://www.meetup.com/owasp-msp-meetup/events/305641736): Tracy Walker: Enhancing Open Source Tools Using AI: A "No Code" Journey to Build an Automated DefectDojo Parser Generator - Video TBU - Slides TBU
+* [20250625](https://www.meetup.com/owasp-msp-meetup/events/307827448): Chris Lindsey: The Dark side of AI: Developing unsecure applications in minutes! - Video TBU - Slides TBU
+* [20250225](https://www.meetup.com/owasp-msp-meetup/events/305641736): Tracy Walker: Enhancing Open Source Tools Using AI: A "No Code" Journey to Build an Automated DefectDojo Parser Generator - [Video](https://youtu.be/B1DZl2D2Iew)
 * [20241203](https://www.meetup.com/owasp-msp-meetup/events/304671791): Dimitry Shvartsman: The new age of Product Security - [Video](https://youtu.be/nwOlY2wIEUg)
 * [20241001](https://www.meetup.com/owasp-msp-meetup/events/303628762/): Darren Meyer: What's in your AI code? Learn why every SCA tool is wrong, and how to deal with it - [Video](https://youtu.be/MsD5PAZLAC4) - [Slides](download/20241001_OWASP-MSP_Episode_AI_Phantom_Dependency_Menace.pdf)
 * [20240618](https://www.meetup.com/owasp-msp-meetup/events/301154232/): Ryan Wakeham: Hidden Risks in Open-Source Code and AI Models - [Video](https://youtu.be/gkHnrzvdJog) - [Slides](download/20240618_OWASP-MSP_Hidden_Risks_in_Open-Source_Code.pdf)
