@@ -1,0 +1,29 @@
+leaders:
+  - name: Nathan Larson
+    email: nathan.larson@owasp.org
+    github: nalarson
+  - name: Kiran Sharma
+    email: kiran.sharma@owasp.org
+  - name: Zoa Buske
+    email: zoa.buske@owasp.org
+  - name: Ash Vogl
+    email: ash.vogl@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Minnesota
+  city: Minneapolis
+  postal_code: '55101'
+  latitude: 44.9772995
+  longitude: -93.2654692
+meetup_group: OWASP-MSP-Meetup
+name: OWASP Minneapolis/St. Paul
+repositories:
+  - name: www-chapter-minneapolis-st-paul
+    url: https://github.com/OWASP/www-chapter-minneapolis-st-paul
+    description: OWASP Foundation Web Repository
+tags:
+  - MSP
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-minneapolis-st-paul
