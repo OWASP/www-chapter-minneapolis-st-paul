@@ -47,6 +47,7 @@ TBD
 
 ## Meeting archive
 
+* 20251023: Intro to CMD+CTRL Security
 * [20250625](https://www.meetup.com/owasp-msp-meetup/events/307827448): Chris Lindsey: The Dark side of AI: Developing unsecure applications in minutes! - Video TBU - Slides TBU
 * [20250225](https://www.meetup.com/owasp-msp-meetup/events/305641736): Tracy Walker: Enhancing Open Source Tools Using AI: A "No Code" Journey to Build an Automated DefectDojo Parser Generator - [Video](https://youtu.be/B1DZl2D2Iew)
 * [20241203](https://www.meetup.com/owasp-msp-meetup/events/304671791): Dimitry Shvartsman: The new age of Product Security - [Video](https://youtu.be/nwOlY2wIEUg)
