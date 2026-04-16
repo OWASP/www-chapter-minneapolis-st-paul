@@ -15,6 +15,9 @@ postal-code: 55101
 ## Welcome
 Welcome to the OWASP chapter local to the Minneapolis / St. Paul area of Minnesota.
 
+**Please see the current page (https://www.owasp.community/chapters/minneapolis-stpaul) for information on the MSP chapter, including attending a free meeting or speaking.**
+
+
 * Meeting locations vary. Please reference our [Meetup page](https://www.meetup.com/OWASP-MSP-Meetup) for announcements. 
 * Everyone is welcome to join us at our chapter meetings; security professionals, software developers, project managers, everyone!
 
