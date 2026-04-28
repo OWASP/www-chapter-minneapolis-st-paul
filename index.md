@@ -22,7 +22,7 @@ Welcome to the OWASP chapter local to the Minneapolis / St. Paul area of Minneso
 * Everyone is welcome to join us at our chapter meetings; security professionals, software developers, project managers, everyone!
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a **speaker** at OWASP-MSP or **any** other OWASP Chapter in the world, review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement), fill in the [speaker information doc](download/OWASP-MSP_speaker_information.dotx), and send it to the local chapter leaders (see the right panel of this page) with details of the OWASP Project, independent research, or related application security topic you would like to present.
 
